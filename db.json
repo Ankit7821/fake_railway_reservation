@@ -1,0 +1,185 @@
+{
+  "users": [
+    {
+      "id": "79a0f9cc-dae0-42a8-88ee-caf28cd0527f",
+      "email": "admin@fake.com",
+      "password": "admin1234",
+      "phoneNumber": "999700028",
+      "role": "admin"
+    },
+    {
+      "id": "c1a46f16-4dd1-4531-b136-c3ae0010dad9",
+      "email": "fgfdf6@gmail.com",
+      "password": "fghfgh67",
+      "phoneNumber": "4567878856",
+      "role": "user"
+    },
+    {
+      "id": "15b15eee-a869-4a9e-a7e8-0f8b1a899298",
+      "email": "fgfdf6@gmail.com",
+      "password": "fghfgh67",
+      "phoneNumber": "4567878856",
+      "role": "user"
+    },
+    {
+      "id": "95570a7b-fd96-490d-8033-c60afd795129",
+      "email": "fgfdf6@gmail.com",
+      "password": "fghfgh67",
+      "phoneNumber": "4567878856",
+      "role": "user"
+    },
+    {
+      "id": "036e6701-3ee3-472b-b118-a6ce81027aa7",
+      "email": "fgfdf6@gmail.com",
+      "password": "fghfgh67",
+      "phoneNumber": "4567878856",
+      "role": "user"
+    },
+    {
+      "id": "c85f8855-9d68-4889-904d-768a1eb3491f",
+      "email": "hert@gmail.com",
+      "password": "1234admin",
+      "phoneNumber": "9678980768",
+      "role": "user"
+    },
+    {
+      "id": "9ed462ed-4eb2-4542-9a70-134f47ff41d4",
+      "email": "heer@gmail.com",
+      "password": "456577478",
+      "phoneNumber": "6756785658",
+      "role": "user"
+    },
+    {
+      "id": "9f09e930-2cdf-438d-af32-a02bc88d6aa2",
+      "email": "test123@gmail.com",
+      "password": "test1234",
+      "phoneNumber": "9904567878",
+      "role": "user"
+    },
+    {
+      "id": "818f1dcd-f254-49a2-8070-dc995357959a",
+      "email": "dv@gmail.com",
+      "password": "sewfe5466",
+      "phoneNumber": "2343454565",
+      "role": "user"
+    },
+    {
+      "id": "e6670963-4d3c-4b7e-87f6-f0ddcf4f90c1",
+      "email": "test1234@gmail.com",
+      "password": "test1234",
+      "phoneNumber": "6765656767",
+      "role": "user"
+    },
+    {
+      "id": "1aaba0cb-1170-4128-883b-98eb15bf48ed",
+      "email": "dfbjn@gmail.com",
+      "password": "123456678",
+      "phoneNumber": "4565567686",
+      "role": "user"
+    }
+  ],
+  "station": [
+    {
+      "label": "ABU ROAD",
+      "value": "ABR"
+    },
+    {
+      "label": "ACHHNERA",
+      "value": "AH"
+    },
+    {
+      "label": "ADONI",
+      "value": "AD"
+    },
+    {
+      "label": "ADRA",
+      "value": "ADRA"
+    },
+    {
+      "label": "AGRA FORT",
+      "value": "AF"
+    },
+    {
+      "label": "AGRA CANTT.",
+      "value": "AGC"
+    },
+    {
+      "label": "AHMADNAGAR",
+      "value": "ANG"
+    },
+    {
+      "label": "AHMEDABAD",
+      "value": "ADI"
+    },
+    {
+      "label": "AJMER",
+      "value": "AII"
+    },
+    {
+      "label": "AKOLA",
+      "value": "AK"
+    },
+    {
+      "label": "ALIGARH",
+      "value": "ALJN"
+    },
+    {
+      "label": "ALIPURDUAR Jn.",
+      "value": "APDJ"
+    },
+    {
+      "label": "ALLAHABAD",
+      "value": "ALD"
+    },
+    {
+      "label": "ALAPPUZHA",
+      "value": "ALLP"
+    },
+    {
+      "label": "ALNAWAR Jn.",
+      "value": "LWR"
+    },
+    {
+      "label": "ALWAR",
+      "value": "AWR"
+    },
+    {
+      "label": "ALUVA",
+      "value": "AWY"
+    },
+    {
+      "label": "AMALNER",
+      "value": "AN"
+    }
+  ],
+  "reservation": [
+    {
+      "id": "6202a9ab-fb72-49e4-967b-fd69b347a97b",
+      "from": "ACHHNERA",
+      "to": "ACHHNERA",
+      "date": "2022-01-10T14:43:21.000Z",
+      "userId": "9f09e930-2cdf-438d-af32-a02bc88d6aa2"
+    },
+    {
+      "id": "f7e0285a-2584-4903-a291-408d12c63636",
+      "from": "ACHHNERA",
+      "to": "ADONI",
+      "date": "2021-12-31T14:45:47.013Z",
+      "userId": "9f09e930-2cdf-438d-af32-a02bc88d6aa2"
+    },
+    {
+      "id": "087fde9e-95f7-4593-b174-66a943936548",
+      "from": "ADRA",
+      "to": "AGRA CANTT.",
+      "date": "2021-12-31T14:48:08.054Z",
+      "userId": "9f09e930-2cdf-438d-af32-a02bc88d6aa2"
+    },
+    {
+      "id": "dc980b5e-9a09-476c-bc5e-30fac6e25dbc",
+      "from": "AGRA FORT",
+      "to": "ACHHNERA",
+      "date": "2022-01-11T14:56:11.000Z",
+      "userId": "e6670963-4d3c-4b7e-87f6-f0ddcf4f90c1"
+    }
+  ]
+}

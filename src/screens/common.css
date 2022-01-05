@@ -1,0 +1,86 @@
+.toolbar {
+    justify-content: space-between;
+    display: flex;
+    width: 100%;
+ }
+.linktonavigate{
+    padding: 10px;
+    font-size: 15px;
+}
+ .logouticon {
+     display: inline-block;
+ }
+ .logouticon svg {
+     margin: -4px 5px;
+ }
+.to-lbl {
+    padding: 15px;
+    margin: 10px 0;
+}
+.datebtn {
+    margin:6px 36px 0;
+}
+.serchbtn {
+    margin:8px 10px ;
+}
+.WapperDiv {
+    display: flex;
+}
+.btn-search {
+    padding: 13px 70px;
+}
+@media only screen and (max-width: 1450px) {
+    .WapperDiv {
+        display: contents;
+    }
+    .to-lbl {
+        padding: 0;
+        margin:  0;
+        /* display: block; */
+    }
+    .datebtn {
+        margin: 15px 25px 15px 7px;
+        /* width: 329px; */
+    }
+    .serchbtn {
+        margin:0 ;
+        width: 329px;
+    }
+}
+@media only screen and (max-width: 733px) {
+    .datebtn {
+        width: 300px;
+    }
+    .serchbtn{
+        margin:8px 6px;
+        width: 304px;
+    }
+    .to-lbl {
+        display: block;
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 360px) {
+    .css-yfo96e {
+        margin-left: -261px;
+    }
+}
+/* ----------------------------- */
+.content {
+    margin-top: 80px;
+}
+.siderbar_link {
+    text-decoration: unset;
+    color: #1976d2;
+}
+/* ------------------------- */
+.tbltitle {
+    color: #1976d2 !important;
+}
+.tboldttl {
+    font-weight: 600 !important;
+    font-size: 16px !important;
+}
+.MuiTableRow-root, .MuiTableRow-root  th,  .MuiTableRow-root   td {
+    border-bottom: 1px solid #1976d2;
+}
